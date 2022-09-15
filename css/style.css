@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+header {
+    height: 120px;
+}
+main {
+    height: 1920px;
+}
+section {
+    width:750px;
+    background-color: #4169e1;
+    color: white;
+    font-family: monospace;
+    font-size: 24px;
+}
+.contact {
+    background-color: white;
+}
